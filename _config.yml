@@ -1,6 +1,6 @@
 name: jmw
 favicon: null
-layout_spectrum: 0.9404842928051949
+layout_spectrum: 1
 typography_spectrum: 0.5099479728378356
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2765615526586771
-  lightness: 0.5456927057821304
-  saturation: 0.375725268619135
-  rhythmicContrast: 0.6318722637370229
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
